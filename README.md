@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vedant488
+- 👋 Hi, I’m Vedant
 - 👀 I’m interested in MERN Stack
 - 🌱 I’m currently learning MongoDB
 - 💞️ I’m looking to collaborate on Machine Learning
